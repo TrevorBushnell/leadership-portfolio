@@ -46,11 +46,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/common_good/3_data-application/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://TrevorBushnell.github.io/leadership-portfolio/self/1_this-i-believe/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -74,6 +69,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://TrevorBushnell.github.io/leadership-portfolio/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://TrevorBushnell.github.io/leadership-portfolio/common_good/3_data-application/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

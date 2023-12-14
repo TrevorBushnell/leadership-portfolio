@@ -1,11 +1,16 @@
 ---
-date: 2017-04-09T10:58:08-04:00
 description: "How I can be a leader in the data industry"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 
 title: "The World Needs a Data-Driven Leader"
 ---
 
-**CONTENT TO GO HERE**
+The leadership minor here at Gonzaga gives a general overview of how to be a leader. No matter your industry, you will inevitably have to be working on teams, navigating some sort of conflict, and working on yourself to be a better leader for your co-workers. What they don't teach you is how that applies to your field of study - and why should they? My favorite part of CLP was seeing the wide variety of majors in the room - and the fact that very few of them were business majors, something where you would expect leadership to be highly prevalent. With the wide variety of majors, it's not possible to get more specific than general leadership.
 
-*Artistically represent "vocation" - where your greatest passions/gladness and the world's greatest need intersect
+However, throughout my time in the program I've been given the opportunity to talk to leaders in my space - the tech world. Because of the competitive nature in the program and the intense interview process, I never really thought much about the existence of leadership in the tech space. Sure, good leaders exist now matter where you go (that's inevitable), but if I were to be a programmer at Google, do leaders that inspire me or value my work and my personality exist and flourish?
+
+Brian Tellez, president of software engineering at (a company out in Spokane Valley) gave me the confidence to know that good leaders really do exist in the tech space. He also taught me ways in which I could be an effective leader in the tech world. Brian showed me that as a leader, he often tries to build community among his software engineers. Brian knows that for people to do their best work, they need to feel like they belong. They need to feel inspired by the people around them and have time built into their work day to have fellowship. One such example of this is the steak lunches that Brian and his team will have. Everyone chips in roughly $5, the company orders a ton of steaks, and Brian cooks a bunch of steaks for his team for lunch. That's the kind of workplace environment I would never expect at a tech company - and it's what excites me about going into that industry.
+
+Throughout CLP, I've found that my strengths as a leader are through teaching and mentoring. In the data space, I will have plenty of opportunities to serve in that capacity. For one, analyzing data isn't your ordinary desk job - I'm writing code that impacts that business as a whole. My insights will influence the next decision the company I work for makes, and that's a huge deal. Additionally, other members of the business don't have extensive backgrounds in statistics. This means I can use my teaching skills to clearly communicate my insights and drive change within a business. Additionally, as I become more senior over time, I will have the ability to mentor new data professionals as they enter the space. I know how to be relational with other people and help highlight their strengths. 
+
+The tech world desperately needs good leaders. Thanks to the experiences and teachings that I've had in CLP, I'm confident that I will be able to have a lasting impact on the data industry for years to come. 
