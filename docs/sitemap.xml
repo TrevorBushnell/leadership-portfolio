@@ -41,11 +41,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/common_good/1_legacy-project/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://TrevorBushnell.github.io/leadership-portfolio/community/1_2024_philosophy_statement/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -67,6 +62,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://TrevorBushnell.github.io/leadership-portfolio/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://TrevorBushnell.github.io/leadership-portfolio/common_good/1_legacy-project/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
