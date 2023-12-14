@@ -1,9 +1,14 @@
 ---
-date: 2017-04-09T10:58:08-04:00
 description: "My leadership in action in my largest hobby."
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 
 title: "Beyond the Classroom - My Choral Leadership"
 ---
 
-**CONTENT TO GO HERE**
+All of us are in CLP because we want to grow in our leadership. We want to be able to practice in the areas of leadership we already serve in so that we can be great leaders upon graduating and entering the workforce. My main source of leadership that I've gotten to practice with has been through the Gonzaga Choirs Program. 
+
+Starting my junior year of college, I served as the unofficial Glee chair for the Gonzaga Glee Club - the tenor/bass ensemble on campus. The 2022-2023 school year was the first time the Glee Club had been given attention and was considered to be good in a significant amount of time. Under my time with the Glee Club, the group went from 11 singers to 25 by the end of the academic year. As such, the director needed a student leader to make sure all events with the Glee Club were going smoothly. I was in charge of making sure Glee members had their music, had their various attire outfits secured, and were in the right place at the right time for all their events. But more importantly, I served as a community hub for the group. I spent most of my time building relationships with the people in the group. I helped them realize that their love for singing was powerful and their desire to tell a story is a vulnerable yet exiting experience. To help build community among singers, I started card game sessions after rehearsals, where we would play various card games while we waited for the next choir after us to come in and start rehearsing. 
+
+My senior year of college I joined the Choir Council leadership team. The Choir Council leadership team has existed in all my years at Gonzaga, but I had never chosen to apply before my senior year. Once my senior year rolled around, I realized the impact that I had on the Glee Club in the year prior and realized that I wanted to continue by inspiring people in the entire choir community.
+
+My official title was Events Ambassador, where I would work to make sure that all logistics for any choral event were secured and solid. While this did include setting and tearing the stage for every concert, working to make sure that chairs and stools and music stands are in place before and after every rehearsal, ordering meals for the choir, etc., I again spent lots of time fostering connections in the overall choir community. I intentionally spent time building relationships with people in all the choirs. I would go to the rehearsals of choirs I was not in to show my support and how valued each member of the program is. I would spend time with choir members outside of rehearsal and get to know their story. Everyone else on the council put in just as much - if not more - work to make this reality happen as well. What followed was the strongest Candlelight Christmas concert we've put on at my time in Gonzaga. The trust between everyone was strong, and the joy singing with everyone else was at an all time high. I've never been so honored to be a part of such an incredible community and make art with such incredible people.
