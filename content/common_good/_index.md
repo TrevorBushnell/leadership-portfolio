@@ -1,6 +1,6 @@
 ---
 title: "Common Good"
-date: 2017-03-02T12:00:00-05:00
 weight: 3
 ---
-Articles/projects highlighting the **common good** component of the project.
+
+CLP has a huge emphasis on *servant leadership* - how can we be a good steward for our local communities? Here are the ways that I have had the honor of giving back to my CLP community to better our program, and how what I've learned in this program will allow me to be a better leader in my future career:

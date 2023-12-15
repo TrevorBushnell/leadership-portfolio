@@ -1,6 +1,6 @@
 ---
 title: "Self"
-date: 2017-03-02T12:00:00-05:00
 weight: 1
 ---
-Articles/projects highlighting the **self** component of the project.
+
+Studies show that leaders spend half their time leading themselves, rather than their followers, peers, and other people in their lives. Learning about yourself is a must as you will continue to grow throughout your career. Check out how I worked on my self leadership throughout my time in CLP:

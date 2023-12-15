@@ -1,6 +1,6 @@
 ---
 description: "My results to my EQ assessment"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/self_eq_profile_1.png"
 
 title: "Emotional Intelligence Assessment"
 ---

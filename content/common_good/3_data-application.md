@@ -1,6 +1,6 @@
 ---
 description: "How I can be a leader in the data industry"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/common_good_data_application_1.jpeg"
 
 title: "The World Needs a Data-Driven Leader"
 ---
