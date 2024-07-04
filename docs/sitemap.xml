@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/self/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/self/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/community/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/community/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/common_good/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/common_good/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/about/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/self/2_best-self-project/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/self/2_best-self-project/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/community/2_choir_beyond_classroom/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/community/2_choir_beyond_classroom/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/categories/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/self/3_emotional-intelligence-assessment/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/self/3_emotional-intelligence-assessment/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/community/3_fishbowl/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/community/3_fishbowl/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/common_good/1_legacy-project/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/common_good/1_legacy-project/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/common_good/2_ta/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/common_good/2_ta/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/tags/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/community/1_2024_philosophy_statement/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/community/1_2024_philosophy_statement/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/common_good/3_data-application/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/common_good/3_data-application/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/self/1_this-i-believe/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/self/1_this-i-believe/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/leadership-portfolio/</loc>
+    <loc>http://localhost:1313/leadership-portfolio/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

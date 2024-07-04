@@ -2,102 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trevor Bushnell Leadership Portfolio</title>
-    <link>https://TrevorBushnell.github.io/leadership-portfolio/</link>
+    <link>http://localhost:1313/leadership-portfolio/</link>
     <description>Recent content on Trevor Bushnell Leadership Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://TrevorBushnell.github.io/leadership-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="http://localhost:1313/leadership-portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://TrevorBushnell.github.io/leadership-portfolio/about/</link>
+      <link>http://localhost:1313/leadership-portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://TrevorBushnell.github.io/leadership-portfolio/about/</guid>
+      <guid>http://localhost:1313/leadership-portfolio/about/</guid>
       <description>I&amp;rsquo;m currently a senior at Gonzaga University studying to get my Leadership Studies minor within the Comprehensive Leadership program. Within the program, I&amp;rsquo;ve had the honor of serving as a TA for LDRS325: The Practice of Leadership. I&amp;rsquo;ve also helped organize the CLP Seminar for incoming freshman students to meet and experience the program before their first course. This program has meant the absolute world to me, and it&amp;rsquo;s been an honor to surround myself with absolutely inspiring people who are going on to do way cooler things than I could ever dream of.</description>
     </item>
-    
     <item>
       <title>Best Self Project</title>
-      <link>https://TrevorBushnell.github.io/leadership-portfolio/self/2_best-self-project/</link>
+      <link>http://localhost:1313/leadership-portfolio/self/2_best-self-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://TrevorBushnell.github.io/leadership-portfolio/self/2_best-self-project/</guid>
+      <guid>http://localhost:1313/leadership-portfolio/self/2_best-self-project/</guid>
       <description>The very first project in CLP is the best self project. In that project, we had to ask a bunch of people who knew us really well what was unique and inspiring about us. Then, we had to come up with a creative way to combine all of that into a creative presentation. Some people wrote poems. Some people had props. Some people played games. I gave a TED talk.</description>
     </item>
-    
     <item>
       <title>Beyond the Classroom - My Choral Leadership</title>
-      <link>https://TrevorBushnell.github.io/leadership-portfolio/community/2_choir_beyond_classroom/</link>
+      <link>http://localhost:1313/leadership-portfolio/community/2_choir_beyond_classroom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://TrevorBushnell.github.io/leadership-portfolio/community/2_choir_beyond_classroom/</guid>
-      <description>All of us are in CLP because we want to grow in our leadership. We want to be able to practice in the areas of leadership we already serve in so that we can be great leaders upon graduating and entering the workforce. My main source of leadership that I&amp;rsquo;ve gotten to practice with has been through the Gonzaga Choirs Program.
-Starting my junior year of college, I served as the unofficial Glee chair for the Gonzaga Glee Club - the tenor/bass ensemble on campus.</description>
+      <guid>http://localhost:1313/leadership-portfolio/community/2_choir_beyond_classroom/</guid>
+      <description>All of us are in CLP because we want to grow in our leadership. We want to be able to practice in the areas of leadership we already serve in so that we can be great leaders upon graduating and entering the workforce. My main source of leadership that I&amp;rsquo;ve gotten to practice with has been through the Gonzaga Choirs Program.&#xA;Starting my junior year of college, I served as the unofficial Glee chair for the Gonzaga Glee Club - the tenor/bass ensemble on campus.</description>
     </item>
-    
     <item>
       <title>Emotional Intelligence Assessment</title>
-      <link>https://TrevorBushnell.github.io/leadership-portfolio/self/3_emotional-intelligence-assessment/</link>
+      <link>http://localhost:1313/leadership-portfolio/self/3_emotional-intelligence-assessment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://TrevorBushnell.github.io/leadership-portfolio/self/3_emotional-intelligence-assessment/</guid>
+      <guid>http://localhost:1313/leadership-portfolio/self/3_emotional-intelligence-assessment/</guid>
       <description>Sophomore spring was my favorite class in the program. LDRS325: The Practice of Leadership forces students to think about everything they&amp;rsquo;ve learned in their first year and apply it to their leadership roles throughout their campus experiences. Part of this class is focused around emotional intelligence - how you can work on other people. I remember hearing from my classmates about how weird the process of taking the exam was. It took exactly an hour, and we were put in situations within an organization where we would have to make decisions as a boss.</description>
     </item>
-    
     <item>
       <title>Leadership Fishbowl</title>
-      <link>https://TrevorBushnell.github.io/leadership-portfolio/community/3_fishbowl/</link>
+      <link>http://localhost:1313/leadership-portfolio/community/3_fishbowl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://TrevorBushnell.github.io/leadership-portfolio/community/3_fishbowl/</guid>
+      <guid>http://localhost:1313/leadership-portfolio/community/3_fishbowl/</guid>
       <description>Once per semester, the program brings in one high-profile leader to come and speak to the students in the program. These leaders have been of various calibers, from a cook in Spokane to a high up the executive ladder at Amazon. It takes the place of one class session in the semester, and every student gathers together in one auditorium to learn as one program. My favorite fishbowl experience was with Charitie Ropati - an indigenous rights activist and student at Columbia University.</description>
     </item>
-    
     <item>
       <title>Legacy Project - Class of 2027 CLP Seminar</title>
-      <link>https://TrevorBushnell.github.io/leadership-portfolio/common_good/1_legacy-project/</link>
+      <link>http://localhost:1313/leadership-portfolio/common_good/1_legacy-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://TrevorBushnell.github.io/leadership-portfolio/common_good/1_legacy-project/</guid>
+      <guid>http://localhost:1313/leadership-portfolio/common_good/1_legacy-project/</guid>
       <description>As a part of the final senior class in CLP, students are required to participate in a legacy project - a team capstone project with the goal of giving back to Gonzaga, either directly to the CLP community or to the Gonzaga community as a whole. For our project, we led the CLP Seminar. The CLP Seminar is an event held the weekend after the incoming freshman class is selected and notified of their acceptance.</description>
     </item>
-    
     <item>
       <title>TA for LDRS325 - The Practice of Leadership</title>
-      <link>https://TrevorBushnell.github.io/leadership-portfolio/common_good/2_ta/</link>
+      <link>http://localhost:1313/leadership-portfolio/common_good/2_ta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://TrevorBushnell.github.io/leadership-portfolio/common_good/2_ta/</guid>
+      <guid>http://localhost:1313/leadership-portfolio/common_good/2_ta/</guid>
       <description>While there is a set track of classes that we all have to take in order to get our leadership minor at Gonzaga, we also get the opportunity to take two classes of our choosing to broaden our leadership experience. One of my choices was getting to be one of four student TAs for the freshman and sophomore spring CLP classes. Being a TA is a huge privilege in the program because you have to apply and be chosen by the professor teaching the course.</description>
     </item>
-    
     <item>
       <title>The Class of 2024 Leadership Philosophy</title>
-      <link>https://TrevorBushnell.github.io/leadership-portfolio/community/1_2024_philosophy_statement/</link>
+      <link>http://localhost:1313/leadership-portfolio/community/1_2024_philosophy_statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://TrevorBushnell.github.io/leadership-portfolio/community/1_2024_philosophy_statement/</guid>
-      <description>&amp;ldquo;Leadership is the opportunity to engineer people and spaces to produce positive experiences in the world.&amp;rdquo; Trevor Bushnell, Class of 2024
- When being asked to write my definition of leadership at the end of the semester, my STEM brain immediately kicked into gear. Throughout this entire minor, we&amp;rsquo;ve been learning not just how to be good leaders, but effective leaders that will make a dent in the world that we live in.</description>
+      <guid>http://localhost:1313/leadership-portfolio/community/1_2024_philosophy_statement/</guid>
+      <description>&amp;ldquo;Leadership is the opportunity to engineer people and spaces to produce positive experiences in the world.&amp;rdquo; Trevor Bushnell, Class of 2024&#xA;When being asked to write my definition of leadership at the end of the semester, my STEM brain immediately kicked into gear. Throughout this entire minor, we&amp;rsquo;ve been learning not just how to be good leaders, but effective leaders that will make a dent in the world that we live in.</description>
     </item>
-    
     <item>
       <title>The World Needs a Data-Driven Leader</title>
-      <link>https://TrevorBushnell.github.io/leadership-portfolio/common_good/3_data-application/</link>
+      <link>http://localhost:1313/leadership-portfolio/common_good/3_data-application/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://TrevorBushnell.github.io/leadership-portfolio/common_good/3_data-application/</guid>
+      <guid>http://localhost:1313/leadership-portfolio/common_good/3_data-application/</guid>
       <description>The leadership minor here at Gonzaga gives a general overview of how to be a leader. No matter your industry, you will inevitably have to be working on teams, navigating some sort of conflict, and working on yourself to be a better leader for your co-workers. What they don&amp;rsquo;t teach you is how that applies to your field of study - and why should they? My favorite part of CLP was seeing the wide variety of majors in the room - and the fact that very few of them were business majors, something where you would expect leadership to be highly prevalent.</description>
     </item>
-    
     <item>
       <title>This I Believe Statement - Be a Good Neighbor</title>
-      <link>https://TrevorBushnell.github.io/leadership-portfolio/self/1_this-i-believe/</link>
+      <link>http://localhost:1313/leadership-portfolio/self/1_this-i-believe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://TrevorBushnell.github.io/leadership-portfolio/self/1_this-i-believe/</guid>
-      <description>I grew up in a typical rural neighborhood. Nice house, lots of bedrooms, lots of siblings to play with. But more importantly, we had neighbors on every side of our house. Even better - those neighbors had kids my age to play with.
-We lived in a cul-de-sac. Houses structured in a circle with a circle of pavement in the middle. Kids living in every home. All the same age. All itching for some fun at any moment.</description>
+      <guid>http://localhost:1313/leadership-portfolio/self/1_this-i-believe/</guid>
+      <description>I grew up in a typical rural neighborhood. Nice house, lots of bedrooms, lots of siblings to play with. But more importantly, we had neighbors on every side of our house. Even better - those neighbors had kids my age to play with.&#xA;We lived in a cul-de-sac. Houses structured in a circle with a circle of pavement in the middle. Kids living in every home. All the same age. All itching for some fun at any moment.</description>
     </item>
-    
   </channel>
 </rss>
