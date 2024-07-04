@@ -1,7 +1,6 @@
 ---
 title: About
-featured_image: ''
-omit_header_text: true
+featured_image: '/images/myrtle_sign_banner_1.jpg'
 description: About Trevor Bushnell
 weight: 4
 ---

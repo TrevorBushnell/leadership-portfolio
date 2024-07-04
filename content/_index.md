@@ -4,9 +4,10 @@ title: "Trevor Bushnell Leadership Portfolio"
 description: "Welcome to my CLP final project"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
-cascade:
-  featured_image: '/common_good_ta_1.jpeg'
+featured_image: '/images/college_hall_banner_1.jpg'
 ---
+
+*Note: Some visual elements are still currently under construction, but the content is completely relevant. As such, I'm leaving the site live while I gradually make these updates. Thanks for your understanding!
 
 ## Welcome to my Leadership Portfolio
 
@@ -14,8 +15,8 @@ The Comprehensive Leadership Program (or CLP for short) is a 21-credit intense p
 
 I have had the wonderful privilege of being included in this community of leaders. Enjoy reading more about the experiences that I have had in this community.
 
-![](/community_choir_3.png)
+![](/images/community_choir_3.png)
 
-![](/common_good_ta_3.jpeg)
+![](/images/common_good_ta_3.jpeg)
 
-![](/community_choir_2.png)
+![](/images/community_choir_2.png)
