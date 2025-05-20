@@ -1,7 +1,7 @@
 ---
 description: "My This I Believe Statement and Reflection"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-
+featured_image: "/images/college_hall_banner_2.jpg"
+date: "2023-12-05"
 title: "This I Believe Statement - Be a Good Neighbor"
 ---
 I grew up in a typical rural neighborhood. Nice house, lots of bedrooms, lots of siblings to play with. But more importantly, we had neighbors on every side of our house. Even better - those neighbors had kids my age to play with. 

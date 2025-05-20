@@ -1,7 +1,7 @@
 ---
 description: "Mine and my cohort's agreed leadership philosophy"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-
+featured_image: "/images/college_hall_banner_2.jpg"
+date: "2023-12-08"
 title: "The Class of 2024 Leadership Philosophy"
 ---
 

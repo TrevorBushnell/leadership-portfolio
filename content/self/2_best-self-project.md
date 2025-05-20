@@ -1,7 +1,7 @@
 ---
 description: "Where it all began - who am I?"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-
+featured_image: "/images/piano_banner_1.jpg"
+date: "2023-12-05"
 title: "Best Self Project"
 ---
 

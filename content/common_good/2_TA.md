@@ -1,12 +1,13 @@
 ---
 description: "The joys of teaching my favorite CLP class."
-featured_image: "/common_good_ta_3.jpeg"
+date: "2023-12-11"
+featured_image: "/images/common_good_ta_1.jpeg"
 title: "TA for LDRS325 - The Practice of Leadership"
 ---
 
 While there is a set track of classes that we all have to take in order to get our leadership minor at Gonzaga, we also get the opportunity to take two classes of our choosing to broaden our leadership experience. One of my choices was getting to be one of four student TAs for the freshman and sophomore spring CLP classes. Being a TA is a huge privilege in the program because you have to apply and be chosen by the professor teaching the course. As such, I was honored when Kristin Plouffe, my favorite CLP professor (and arguably one of my favorite professors at Gonzaga) offered me a TA position to help her teach The Practice of Leadership - my favorite class in CLP - for the Class of 2025. 
 
-![The Class of 2025](/common_good_ta_3.jpeg)
+![The Class of 2025](/images/common_good_ta_3.jpeg)
 
 Little did I know that this would be more demanding semester than the TAs who came before me. The first meeting, Kristin opened the floor to what their CLP experience has been like in the past and what we can do as instructors moving forward to better suit them. What followed was a mix of emotions and rocky experiences that caused some of them to drop out of the program before coming into our class, or at the very least have severed relationships with others in the room and a general sense of demotivation in CLP. At the same time, Kristin and I learned how incredibly passionate this class was - they wanted intense dialogue where they could share *anything* and learn from each other. I've never seen so much passion for leadership and learning from any community the way the Class of 2025 shared. 
 
@@ -18,8 +19,8 @@ The major word that we the instruction team rallied behind was **pivot**. Depend
 
 The TA role concluded with the opportunity to lesson plan and teach an entire class with the help of the other TA. I could not be more grateful to work with such an amazing individual as Union. Together, we planned a class reviewing each of the main units of the course, with the theme of a *Leadership Trip Around the World*. Our first activity was a Minefield-esque activity where students compete in teams to try to get through a maze in which they don't know the correct path out. Our second activity was an EQ Karaoke party, where students had to pick a song that matches an emotion, talk about why they performed that song, and then perform it! Our final activity had the two sections particpate in debates at the United Nations headquarters in attempt to create and resolve conflict. Throughout the entire process, I had a seamless experience working with Union on developing the entire class, and we executed it flawlessly (how rarely does that happen?!). The students also had an absolute blast the entire day which helped affirm our hard work throughout the entire semester.
 
-![us admiring our final planned class!](/common_good_ta_1.jpeg)
+![us admiring our final planned class!](/images/common_good_ta_1.jpeg)
 
 In the end, I'm so grateful for Ben, Kristin, and Union for teaching me so much and allowing me to use mentorship and teaching (my favorite aspects of leadership) to help grow myself as a leader. I'm also so incredibly grateful to the CLP Class of 2025 for giving me grace and patience as I navigated teaching. It was definitely a challenge at the beginning with a steep learning curve, and I'm so excited that I got to impact so many students through my work - and encourage them to even take my place as they get older!
 
-![us admiring our final planned class!](/common_good_ta_2.jpeg)
+![us admiring our final planned class!](/images/common_good_ta_2.jpeg)

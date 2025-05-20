@@ -1,7 +1,7 @@
 ---
 description: "How I can be a leader in the data industry"
-featured_image: "/common_good_data_application_1.jpeg"
-
+featured_image: "/images/common_good_data_application_1.jpeg"
+date: "2023-12-11"
 title: "The World Needs a Data-Driven Leader"
 ---
 

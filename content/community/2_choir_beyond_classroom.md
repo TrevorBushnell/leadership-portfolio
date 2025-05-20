@@ -1,7 +1,7 @@
 ---
 description: "My leadership in action in my largest hobby."
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-
+featured_image: "/images/piano_banner_2.jpg"
+date: "2023-12-08"
 title: "Beyond the Classroom - My Choral Leadership"
 ---
 

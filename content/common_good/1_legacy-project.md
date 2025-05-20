@@ -1,7 +1,7 @@
 ---
 description: "Giving back to the CLP community through investing in the incoming freshman class."
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-
+featured_image: "/images/common_good_ta_3.jpeg"
+date: "2023-12-11"
 title: "Legacy Project - Class of 2027 CLP Seminar"
 ---
 

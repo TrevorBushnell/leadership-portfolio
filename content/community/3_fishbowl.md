@@ -1,7 +1,7 @@
 ---
 description: "CLPers around one incredble speaker."
-featured_image: "/community_fishbowl_1.png"
-
+featured_image: "/images/community_fishbowl_1.png"
+date: "2023-12-08"
 title: "Leadership Fishbowl"
 ---
 
@@ -11,4 +11,4 @@ I loved this talk because this was the first high-profile leader to come into ou
 
 In general, fishbowls are an exciting experience. You normally are used to learning within your cohort, but fishbowl is the one experience every semester you get to learn as a true CLP community. Everyone walks into the auditorium inspired and ready to learn. The conversations that follow between the students and the speakers are always a joy to participate in. The leadership fishbowls will definitely be an experience that I will miss upon graduating.
 
-![Charitie at Fishbowl S23](/community_fishbowl_1.png)
+![Charitie at Fishbowl S23](/images/community_fishbowl_1.png)
