@@ -12,6 +12,7 @@ googleAnalytics = ""
 enableRobotsTXT = true
 canonifyURLs = true
 publishDir = "docs"
+contentDir = "content"
 enableEmoji = true
 
 [sitemap]
