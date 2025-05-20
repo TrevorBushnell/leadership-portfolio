@@ -1,5 +1,5 @@
 title = "Trevor Bushnell Leadership Portfolio"
-baseURL = "https://TrevorBushnell.github.io/leadership-portfolio"
+baseURL = "https://TrevorBushnell.github.io/leadership-portfolio/"
 languageCode = "en-us"
 theme = "ananke"
 #themesDir = "../.."
